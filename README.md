@@ -3,9 +3,9 @@
 
 To use them just type: 
 
-'''
+```
 sh convert_fasta_to_1l_fasta.sh filename.fasta
-'''
+```
 
 for converting files that contain multiple sequences in fasta format downloaded from ncbi into 1 line fasta. Sequences will be 1 line below their name.
 
@@ -14,9 +14,9 @@ for converting files that contain multiple sequences in fasta format downloaded 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....
 ```
 
-'''
+```
 sh convert_fasta_to_1l_phylip.sh filename.fasta
-'''
+```
 
 for converting files that contain multiple sequences in fasta format downloaded from ncbi into 1 line fasta. Sequences will be separated from name by a tab and will be in the same line.
 
